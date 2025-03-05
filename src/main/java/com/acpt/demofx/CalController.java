@@ -56,6 +56,9 @@ public class CalController {
         double num2 = Double.parseDouble(txtNum2.getText());
 
         result = num1 + num2;
+        System.out.println(result);
+        System.out.println("hello");
+        System.out.println("world");
 
         System.out.println(result);
         System.out.println("hello");

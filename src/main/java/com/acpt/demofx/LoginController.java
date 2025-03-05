@@ -25,7 +25,11 @@ public class LoginController {
 
         if (email.equals(dbEmail) && password.equals(dbPassword)) {
             System.out.println("Login successful");
+
             System.out.println("Login successful");
+
+
+
         }else {
 
             System.out.println("Login failed");
