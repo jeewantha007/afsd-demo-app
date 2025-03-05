@@ -30,8 +30,9 @@ public class LoginController {
             System.out.println("Login failed");
         }
 
-
-        System.out.println(email);
+    if (email.isEmpty() || password.isEmpty()) {
+        System.out.println("Email and Password are empty");
+    }
 
     }
 
