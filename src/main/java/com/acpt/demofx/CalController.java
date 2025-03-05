@@ -60,6 +60,12 @@ public class CalController {
         System.out.println("hello");
         System.out.println("world");
 
+        System.out.println(result);
+        System.out.println("hello");
+        System.out.println("world");
+        System.out.println("hiii");
+
+
     }
 
 }
