@@ -13,5 +13,7 @@ public class HelloController {
 
         System.out.println("Welcome to JavaFX Application!");
 
+        System.out.println("Welcome to JavaFX Application!");
+
     }
 }
