@@ -31,8 +31,7 @@ public class LoginController {
         }
 
 
-
-
+        System.out.println(email);
 
     }
 
