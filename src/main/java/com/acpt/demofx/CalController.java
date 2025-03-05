@@ -57,6 +57,12 @@ public class CalController {
 
         result = num1 + num2;
 
+        System.out.println(result);
+        System.out.println("hello");
+        System.out.println("world");
+        System.out.println("hiii");
+
+
     }
 
 }
